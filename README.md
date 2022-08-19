@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms, JavaScript, Node.js, MongoDB, React**
 
-- 📫 How to reach me **mk2334994@gmail.com**
+- 📫 How to reach me **manishkcse@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MxImNty3RRWGMKc6K3t1gPund94oEv0I/view](https://drive.google.com/file/d/1MxImNty3RRWGMKc6K3t1gPund94oEv0I/view)
 
