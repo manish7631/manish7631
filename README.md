@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **manishkcse@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MxImNty3RRWGMKc6K3t1gPund94oEv0I/view](https://drive.google.com/file/d/1MxImNty3RRWGMKc6K3t1gPund94oEv0I/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o6kYhmLbsTAahdz2zPCpaIkdsaCB2NEC/view?usp=sharing](https://drive.google.com/file/d/1o6kYhmLbsTAahdz2zPCpaIkdsaCB2NEC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
