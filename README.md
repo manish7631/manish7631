@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" height="300" src="https://arunseo.com/wp-content/uploads/2021/02/contact-us.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish7631&label=Profile%20views&color=0e75b6&style=flat" alt="manish7631" /> </p>
 
-- 🌱 Total Experience of 8 Months In  **Frontend Developer**
+- 🌱 Looking fro job in  **Frontend Developer**
 
 - 💬 Ask me about **Data Structures and Algorithms, JavaScript, Node.js, MongoDB, React**
 
